@@ -1,6 +1,6 @@
-Live frontend hosted link : https://moduleend-assignment-5-kpi8.vercel.app
+Live frontend hosted link : https://module-end-5-dihu.vercel.app/
 
-backend hosted link : https://moduleend-assignment-5.vercel.app
+backend hosted link : https://module-end-5-bay.vercel.app/
 
 
 
